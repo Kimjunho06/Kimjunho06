@@ -1,16 +1,19 @@
 ### 
-[![Navermail Badge][(https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moonkanghyuck@gmail.com)](mailto:moonkanghyuck@gmail.com)](https://nid.naver.com/user2/help/naverProfile?m=viewModifyProfile&token_help=ZiVrb9cLpB8Movd2)
-[![유튜브](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/channel/UCShwBIXYUcIGtGz_tNENRrA)
+| **학교** | **학과** | **날짜** | **포트폴리오 사이트** |
+|:--------:|:--------:|:--------:|:--------:|
+| **경기게임마이스터고등학교** | 게임개발과 | 2022 ~ 2024 | **(http://ggm.gondr.net/)** |
 
 ## Portfolio
 
 <h2 align="left">▶ 경력</h2>
 
-| **종류** | **날짜** | **내용** | **조직** |
-|:--------:|:--------:|:--------:|:--------:|
-| **:mortar_board: 고등학교** | 2021 ~ | 게임개발과 | **경기게임마이스터고** |
+경기게임마이스터고 재학
 
-<h2 align="left">🛠️ 툴&스킬</h2>
+<h2 align="left">▶ 수상경력</h2>
+
+| 2022 | 2023 | 2024 |
+| ------ | ------ | ------ |
+| 교과우수상(수학, 컴일) , 교내 게임잼 1등 | | |
 
 <h2 align="left">💻 깃허브 정보</h2>
 
