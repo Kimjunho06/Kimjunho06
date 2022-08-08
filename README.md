@@ -1,6 +1,6 @@
 ### Hi there 👋
 Hello
-[![N|Solid]()
+[![N|Solid](kjhlove0119@naver.com)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 <!--
