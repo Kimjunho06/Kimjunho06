@@ -2,9 +2,10 @@
 | 학교 | 학과 | 날짜 | 포트폴리오 사이트 |
 | ------ | ------ | ------ | ------ |
 | 경기게임마이스터고 | 게임개발과 | 2022 ~ 2024 | [http://ggm.gondr.net/] |
-
-
 <!--
+ㅇㅇㅇ
+<!--
+
 **Kimjunho06/Kimjunho06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-ㅇㅇㅇ 테스트
+
