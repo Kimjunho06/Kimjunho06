@@ -21,7 +21,6 @@
 
 [![bossxz's github stats](https://github-readme-stats.vercel.app/api?username=Kimjunho06&show_icons=true&theme=dracula)](https://github.com/Kimjunho06)
 
-<a href="https://opgc.me/#/users/Kimjunho06" target="_blank"><img src="https://api.opgc.me/githubs/users/Kimjunho06/tag/?theme=basic" /></a>
 
 <!--
 **Kimjunho06/Kimjunho06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
