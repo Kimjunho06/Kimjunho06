@@ -1,7 +1,4 @@
 ### Hi there 👋
-Hello
-[![N|Solid](kjhlove0119@naver.com)
-
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 <!--
 **Kimjunho06/Kimjunho06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
