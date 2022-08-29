@@ -19,7 +19,7 @@
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=Kimjunho06&theme=calm)](https://github.com/Kimjunho06)
 
-[![bossxz's github stats](https://github-readme-stats.vercel.app/api?username=Kimjunho06&show_icons=true&theme=dracula)](https://github.com/Kimjunho06)
+[![Kimjunho06's github stats](https://github-readme-stats.vercel.app/api?username=Kimjunho06&show_icons=true&theme=dracula)](https://github.com/Kimjunho06)
 
 
 <!--
