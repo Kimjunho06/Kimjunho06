@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Think%20like%20a%20man%20of%20action%20and%20act%20like%20man%20of%20thought.&fontSize=30&fontAlignY=40)
-<h4 align="middle"> 행동하는 사람처럼 생각하고, 생각하는 사람처럼 행동하라. </h4> 
+<h4 align="middle"> 행동하는 사람처럼 생각하고, 생각하는 사람처럼 행동하겠습니다. </h4> 
 
 <br>
 <br>
