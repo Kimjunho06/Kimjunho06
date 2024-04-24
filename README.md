@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Think%20like%20a%20man%20of%20action%20and%20act%20like%20man%20of%20thought.&fontSize=30&fontAlignY=40)
-<h4 align="middle"> 행동하는 사람처럼 생각하고, 생각하는 사람처럼 행동하겠습니다. </h4> 
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Think%20like%20a%20man%20of%20action%20and%20act%20like%20man%20of%20thought.&fontSize=30&fontAlignY=40)
+
+<h3 align="middle"> 행동하는 사람처럼 생각하고, 생각하는 사람처럼 행동하라. </h3> 
+
 
 <br>
 <br>
@@ -15,7 +17,8 @@
 
 [![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kimjunho06)
 [![tistory](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white)](https://junho06.tistory.com/)
-[![readme](https://img.shields.io/badge/Resume-181717?style=flat-square&logo=readme&logoColor=white)](https://junho06.tistory.com/)
+[![readme](https://img.shields.io/badge/Resume-181717?style=flat-square&logo=readme&logoColor=white)](https://knotty-icon-26e.notion.site/578d9bb6f01249e0ad8c4ecad1f09429?pvs=4)
+
 
 <br>
 <br>
@@ -41,10 +44,13 @@
 
 -----
 
-<img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?style=for-the-badge&amp;logo=AdobePhotoshop&amp;logoColor=white">
-<img alt="VS" src="https://img.shields.io/badge/vs-5C2D91.svg?style=for-the-badge&amp;logo=VisualStudio&amp;logoColor=white">
-
 ![unity](https://img.shields.io/badge/Unity-36566F?style=flat-square&logo=unity&logoColor=white)
+
+<img alt="VS" src="https://img.shields.io/badge/vs-5C2D91.svg?style=for-the-badge&amp;logo=VisualStudio&amp;logoColor=white">
+<img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?style=for-the-badge&amp;logo=AdobePhotoshop&amp;logoColor=white">
+
+
+
 
 <br>
 <br>
@@ -64,6 +70,7 @@
 **수상내역**
 2022 교내 하계 게임잼 대상
 2022 교내 팀프로젝트 대상
+2023 STA+C 우수상
 
 <br>
 
